@@ -12,7 +12,7 @@ export default function Profile() {
 
 
                         <a href='https://www.youtube.com/watch?v=ilw_g_rxtVc&t=898s'>
-                            <i className='fa fa-facebook'></i>
+                            <i className='fa fa-github'></i>
                         </a>
                         <a href='#'>
                             <i className='fa fa-google-plus-square'></i>
@@ -60,7 +60,7 @@ export default function Profile() {
                           </span>
                       </div>
                       <div className='profile-options'>
-                          <button className="btn-primary-btn">
+                          <button className="btn primary-btn">
                               {""}
                               Hire Me{" "}
                           </button>

@@ -5,7 +5,7 @@
     justify-content: center;
     height: 10%;
     min-height: fit-content;
-    background-image: url("../../Assets/Home/bg.jpg");
+    background-image: url("../../Assets/Home/bg2.png");
 }
 .profile-parent{
     display: flex;
@@ -27,4 +27,49 @@
 }
 .primary-text{
     color: (--white);
+}
+.highlighted-text{
+    color: darkorange;
+}
+.profile-role-tagline{
+    font-size: 19px;
+    margin: 5px 0 0 0;
+    font-family: "Oxygen";
+}
+.profile-options .highlighted-btn{
+    margin: 0 0 0 28px;
+}
+.profile-options .highlighted-btn:hover{
+    margin: 0 0 0 28px;
+    background-color: cornsilk;
+    color: black;
+}
+.profile-picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0px white;
+    border-radius: 50%;
+    height: 375px;
+    width: 375px;
+    margin: 0 0px 0 100px;
+}
+.profile-picture-background{
+    height: 90%;
+    width: 90%;
+    background-image: url(../../Assets/Home/profile.jpg);
+    border-radius: 50%;
+}
+.profile-picture-background:hover{
+    transform: scale(1.11);
+    transition: 1s ease-out;
+}
+.colz .colz-icon i{
+    color: white;
+    padding: 8px;
+    padding-left: 5px;
+}
+.colz .colz-icon i:hover{
+    transform: scale(2);
+    transition: 1s ease-in-out;
 }
