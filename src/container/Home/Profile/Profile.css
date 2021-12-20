@@ -5,7 +5,7 @@
     justify-content: center;
     height: 10%;
     min-height: fit-content;
-    background-image: url("../../Assets/Home/bg2.png");
+   
 }
 .profile-parent{
     display: flex;
@@ -57,7 +57,7 @@
 .profile-picture-background{
     height: 90%;
     width: 90%;
-    background-image: url(../../Assets/Home/profile.jpg);
+    background-image: url("../../../Assets/Home/profile.jpg");
     border-radius: 50%;
 }
 .profile-picture-background:hover{
