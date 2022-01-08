@@ -1,19 +1,19 @@
 let ResumeData = [
     {
-        imgSrc: "",
-        name: "Developer",
+        imgSrc: "image 1.png",
+        name: "Web Designer",
         discription: "One of the  best developer in Kerala",
         email: "Nizajwer8o@gmail.com",
     },
     {
-        imgSrc: "",
-        name: "Front-end developer",
+        imgSrc: "image 2.png",
+        name: "Front-End",
         discription: "One of the  best front end developer in Kerala",
         email: "Nizajwer8o@gmail.com",
     },
     {
-        imgSrc: "",
-        name: "Backend Developer",
+        imgSrc: "image 3.png",
+        name: "Back-End",
         discription: "One of the  best backend developer in Kerala",
         email: "Nizajwer8o@gmail.com",
     },

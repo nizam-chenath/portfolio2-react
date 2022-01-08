@@ -1,0 +1,37 @@
+*{
+  
+    box-sizing: border-box;
+
+}
+.card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 75px;
+}
+.card{
+    margin: 20px;
+    padding: 20px 45px;
+    border-radius: 25px;
+    background-color: #ff4e00;
+    background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%) ;
+    color: white;
+    box-shadow: 10px 15px darkgrey;
+}
+.card:hover{
+    padding-bottom: 40px;
+    background-color: white;
+    color: black;
+    box-shadow: rgb(128, 172, 255);
+}
+.card img{
+    width: 150px;
+    height: 150px;
+}
+.card h6{
+    display: none;
+}
+.card:hover h6{
+    display: contents;
+}
