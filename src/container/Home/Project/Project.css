@@ -1,0 +1,32 @@
+.project-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+.project-section img{
+    height: 400px;
+    width: 430px;
+    border-radius: 25px;
+}
+.next-btn{
+    padding: 10px 20px;
+    background-color: chocolate;
+    margin-left: 100px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+   
+}
+.prev-btn{
+    padding: 10px 20px;
+    background-color: rgba(92, 250, 1, 0.425);
+    margin-right: 100px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}

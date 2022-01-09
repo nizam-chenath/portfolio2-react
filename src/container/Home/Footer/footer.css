@@ -7,12 +7,13 @@
 }
 .footer-parent{
     width: 100%;
-    height: 100%;
+    height: 50%;
     max-width: 1920px;
+    
 }
 .footer-parent img{
     height: 800px;
-    width: 1350px;
+    width: 1000px;
 
 }
 @media only screen and (max-width: 1110px){
